@@ -1,4 +1,4 @@
-package com.recepkabakci.HrManagementSystem.config;
+package com.recepkabakci.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

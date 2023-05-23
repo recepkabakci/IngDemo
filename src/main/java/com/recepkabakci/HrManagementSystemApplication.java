@@ -1,4 +1,4 @@
-package com.recepkabakci.HrManagementSystem;
+package com.recepkabakci;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
