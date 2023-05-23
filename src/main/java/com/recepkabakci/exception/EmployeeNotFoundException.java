@@ -1,4 +1,4 @@
-package com.recepkabakci.HrManagementSystem.exception;
+package com.recepkabakci.exception;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
 
